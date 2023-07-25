@@ -1,5 +1,9 @@
 # Changelog for snap-stream
 
+## Unreleased
+
+* Loosen `attoparsec` version bounds
+
 ## 0.1.1.0
 
 * Loosen `base` version bounds
